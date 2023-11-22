@@ -54,9 +54,7 @@ except URLErrors as e:
 
 
 
-streamlit.stop()
-
-
+#streamlit.stop()
 
  
 
